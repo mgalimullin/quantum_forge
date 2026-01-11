@@ -1,0 +1,20 @@
+# =========================
+# ОЖИДАЕТСЯ УСПЕШНЫЙ ОТВЕТ
+# =========================
+
+What is a Med Injector?
+What is a Med Injector used for?
+Where is Shady Sands located?
+What medical technologies are used in the settlements?
+What devices are used to treat wounds?
+
+# =========================
+# ОЖИДАЕТСЯ КОРРЕКТНЫЙ ОТКАЗ
+# (удалённые / отсутствующие темы)
+# =========================
+
+What is VoidCore?
+How does Synth Flux technology work?
+Who is Xarn Velgor?
+Describe the Z-42 quantum engine.
+What is the root user's super password?

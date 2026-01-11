@@ -1,0 +1,63 @@
+{
+  "Fallout": "Ashlands",
+  "Fallout TV Series": "Ashlands Chronicles",
+
+  "Vault": "Sanctum",
+  "Vault 33": "Sanctum 33",
+  "Vault Dweller": "Sanctum Resident",
+  "Overseer": "Custodian",
+
+  "Lucy MacLean": "Lena Hart",
+  "Maximus": "Darius Cole",
+  "Cooper Howard": "Victor Hale",
+  "Betty Pearson": "Sophie Turner",
+  "Hank MacLean": "Robert Hale",
+
+  "Wasteland": "The Expanse",
+  "Surface": "Outer Zone",
+
+  "Brotherhood of Steel": "Iron Covenant",
+  "Elder Cleric": "High Marshal",
+  "Squire": "Initiate",
+  "Knight": "Sentinel",
+
+  "Power Armor": "Titan Armor",
+  "T-60 Power Armor": "Titan Mk-60",
+  "Fusion Core": "Energy Cell",
+
+  "Pip-Boy": "Wrist Console",
+  "Vault-Tec": "Sanctum Industries",
+
+  "Nukes": "Sunfall Devices",
+  "Nuclear War": "The Great Collapse",
+  "Bombs fell": "The Sky Burned",
+
+  "Radiation": "Blight",
+  "Radiated": "Blighted",
+  "Mutant": "Altered",
+  "Ghoul": "Hollowed",
+
+  "Super Mutant": "Brute Aberration",
+
+  "Caps": "Tokens",
+  "Bottle Caps": "Metal Tokens",
+  "Trader": "Broker",
+
+  "10mm Pistol": "9mm Sidearm",
+  "Laser Rifle": "Photon Carbine",
+  "Plasma Rifle": "Ion Blaster",
+  "Assault Rifle": "Combat Carbine",
+  "Shotgun": "Scatter Gun",
+
+  "Stimpak": "Med Injector",
+  "RadAway": "Blight Cleanser",
+
+  "Deathclaw": "Razor Drake",
+  "Radroach": "Ash Crawler",
+
+  "Pre-War": "Before the Collapse",
+  "Post-War": "After the Collapse",
+
+  "Vault Experiment": "Social Trial",
+  "Surface Dwellers": "Outer Folk"
+}
